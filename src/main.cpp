@@ -136,6 +136,9 @@ int main() {
               } 
             }
 
+          /*
+          Code I develop
+          */
             // Situation at Lane 0
             // Check for the car on Lane 1 if chaning lane is needed
             if (lane == 0) {
@@ -266,6 +269,10 @@ int main() {
           // } else if (lane < 2 && right) {
           //   lane += 1;
           // }
+
+        /*
+          End of My Code
+        */
         
           // Create a list of evenly spaced waypoints 30m apart
           // Interpolate those waypoints later with spline and fill it in with more points
